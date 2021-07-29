@@ -22,7 +22,7 @@ elif filter=="-h":
     print("""
     patterns                       description
     --------                      -------------
-    url                       filter all url from stdin
-    ip                        filter all ip  from stdin
-
+    url                       filter all url from txt file
+    ip                        filter all ip  from txt file
+                                          3rr0r-404
 """)
