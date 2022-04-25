@@ -12,3 +12,12 @@ cp tamu /bin
 sudo chmod +x /bin/tamu
 ##
 tamu -h
+
+
+```yaml
+-Details:
+      -type: it's help u for sort url and ip from big text file 
+      -install: sudo cd /bin ; wget https://raw.githubusercontent.com/RobinTrigon/tamu/main/tamu ; chmod +x tamu ; tamu -h
+-
+
+```
